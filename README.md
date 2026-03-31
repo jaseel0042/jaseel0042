@@ -1,40 +1,61 @@
-## Hi 👋, I'm Jaseel.VP
+# 👋 Hi, I'm Jaseel.VP
 
-🔐 Cybersecurity Trainee | Ethical Hacking Enthusiast  
-
----
-
-## 🧠 About Me  
-- 🛡️ Learning Ethical Hacking & Network Security  
-- 💻 Hands-on with TryHackMe & Hack The Box  
-- 🎯 Goal: SOC Analyst / Ethical Hacker  
+🎓 Cybersecurity Student
+🔐 Aspiring SOC Analyst & Penetration Tester
+📍 Kerala, India
 
 ---
 
-## ⚙️ Tools  
-- Nmap  
-- Burp Suite  
-- Wireshark  
-- Metasploit  
-- Shodan  
+## 🧑‍💻 About Me
+
+* 🎓 Completed Higher Secondary Education
+* 🎓 Advanced Diploma in Cybersecurity (Offenso Hackers Academy)
+* 💻 Passionate about Ethical Hacking & Security Research
+* 🚀 Currently learning: Web Pentesting, Network Security
 
 ---
 
-## 📚 Platforms  
-- TryHackMe  
-- Hack The Box  
+## 🛠️ Skills
+
+* Penetration Testing
+* Vulnerability Assessment
+* Network Security
+* Threat Intelligence
+* SIEM & Log Analysis
 
 ---
 
-## 🚀 Projects  
-- Web Penetration Testing Reports  
-- Nmap Network Scanning  
-- TryHackMe Writeups  
-- Python Port Scanner  
+## 🔧 Tools
+
+* Burp Suite
+* Nmap
+* Wireshark
+* Metasploit
+* Splunk
+* Wazuh
 
 ---
 
-## 📫 Connect  
-- LinkedIn: https://www.linkedin.com/in/jaseel-v-p-165699376/
-- 📧 Email: jesijaseel098@gmail.com  
-- 💻 [GitHub](https://github.com/jaseel0042)
+## 🚀 Projects
+
+* 🌐 Web Penetration Testing Reports
+* 🔍 Nmap Network Scanning
+* 🧠 TryHackMe Writeups
+* 🐍 Python Port Scanner
+
+---
+
+## 📈 Goals
+
+* Become a SOC Analyst
+* Work in Cybersecurity Industry
+* Build advanced security tools
+
+---
+
+## 📫 Connect with Me
+
+* 💼 [LinkedIn]https://www.linkedin.com/in/jaseel-v-p-165699376/
+* 📧 [Email Me](mailto:jesijaseel098@gmail.com)
+* 🐙 [GitHub](https://github.com/jaseel0042)
+##

@@ -55,7 +55,7 @@
 
 ## 📫 Connect with Me
 
-* 💼 [LinkedIn]https://www.linkedin.com/in/jaseel-v-p-165699376/)
+* 💼 [LinkedIn](https://www.linkedin.com/in/jaseel-v-p-165699376/)
 * 📧 [Email Me](mailto:jesijaseel098@gmail.com)
 * 🐙 [GitHub](https://github.com/jaseel0042)
 ##

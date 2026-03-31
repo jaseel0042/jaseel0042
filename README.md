@@ -1,16 +1,40 @@
-## Hi there 👋
+## Hi 👋, I'm Jaseel.VP
 
-<!--
-**jaseel0042/jaseel0042** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cybersecurity Trainee | Ethical Hacking Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me  
+- 🛡️ Learning Ethical Hacking & Network Security  
+- 💻 Hands-on with TryHackMe & Hack The Box  
+- 🎯 Goal: SOC Analyst / Ethical Hacker  
+
+---
+
+## ⚙️ Tools  
+- Nmap  
+- Burp Suite  
+- Wireshark  
+- Metasploit  
+- Shodan  
+
+---
+
+## 📚 Platforms  
+- TryHackMe  
+- Hack The Box  
+
+---
+
+## 🚀 Projects  
+- Web Penetration Testing Reports  
+- Nmap Network Scanning  
+- TryHackMe Writeups  
+- Python Port Scanner  
+
+---
+
+## 📫 Connect  
+- LinkedIn: https://www.linkedin.com/in/jaseel-v-p-165699376/
+- 📧 Email: jesijaseel098@gmail.com  
+- 💻 [GitHub](https://github.com/jaseel0042)
